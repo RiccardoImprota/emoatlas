@@ -2,7 +2,7 @@ matplotlib
 spacy
 networkx
 nltk
-shapely
+shapely>=2.0.1
 pandas
 community
 python-louvain
