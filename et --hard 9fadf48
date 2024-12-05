@@ -1,0 +1,20 @@
+[33ma29ba9d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mvalences_emoatlas[m[33m, [m[1;31mupstream/main[m[33m, [m[1;31mupstream/HEAD[m[33m, [m[1;31morigin/valences_emoatlas[m[33m)[m HEAD@{2024-12-05 10:56:58 +0100}: reset: moving to HEAD
+[33ma29ba9d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mvalences_emoatlas[m[33m, [m[1;31mupstream/main[m[33m, [m[1;31mupstream/HEAD[m[33m, [m[1;31morigin/valences_emoatlas[m[33m)[m HEAD@{2024-12-05 10:47:19 +0100}: checkout: moving from main to valences_emoatlas
+[33m9fadf48[m[33m ([m[1;32mmain[m[33m)[m HEAD@{2024-11-19 12:36:20 +0100}: commit: Update setup.cfg
+[33mace719b[m HEAD@{2024-11-19 12:34:37 +0100}: pull --ff --recurse-submodules --progress origin: Fast-forward
+[33ma9d97d5[m HEAD@{2024-06-27 16:44:36 +0200}: commit: changed padding bbox
+[33m5163d27[m HEAD@{2024-06-27 16:36:08 +0200}: commit: changing values test
+[33mb34e099[m HEAD@{2024-06-27 16:27:27 +0200}: commit: fixed thickness
+[33mfb426f0[m HEAD@{2024-06-27 16:13:13 +0200}: commit: quickfix shortest paths
+[33ma81444a[m HEAD@{2024-06-27 15:29:33 +0200}: commit: Rework Mindset Stream
+[33m2135fd6[m HEAD@{2024-06-27 15:15:11 +0200}: commit: changing scales
+[33m3ec8241[m HEAD@{2024-06-27 15:03:47 +0200}: commit: quickfix function
+[33mcc0c5bd[m HEAD@{2024-06-27 14:59:53 +0200}: commit: testing mindsetstream
+[33mc3e025c[m HEAD@{2024-06-27 14:51:54 +0200}: checkout: moving from testSpringLayout to main
+[33m7edba1f[m[33m ([m[1;32mtestSpringLayout[m[33m)[m HEAD@{2024-05-14 16:15:29 +0200}: checkout: moving from main to testSpringLayout
+[33m7edba1f[m[33m ([m[1;32mtestSpringLayout[m[33m)[m HEAD@{2024-04-12 11:00:08 +0200}: pull --ff --recurse-submodules --progress origin: Fast-forward
+[33mee57b77[m HEAD@{2024-04-12 10:49:46 +0200}: pull --ff --recurse-submodules --progress origin: Fast-forward
+[33mbe594c2[m HEAD@{2024-04-12 10:44:48 +0200}: commit: added convert formamentis to nx graph
+[33m0d496c7[m HEAD@{2024-04-12 10:28:32 +0200}: pull --ff --recurse-submodules --progress origin: Fast-forward
+[33mc83ae7c[m HEAD@{2024-04-08 11:21:21 +0200}: pull --ff --recurse-submodules --progress origin: Fast-forward
+[33mc036bb3[m HEAD@{2024-03-06 15:32:59 +0100}: clone: from https://github.com/RiccardoImprota/emoatlas.git
