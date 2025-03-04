@@ -6,9 +6,10 @@
 </p>
 
 <p align="center">
-  [![Active Development](https://img.shields.io/badge/Development-Active%20Fork%3A%20EmoAtlas-red.svg)](https://github.com/MassimoStel/emoatlas)
+  <a href="https://github.com/MassimoStel/emoatlas">
+    <img src="https://img.shields.io/badge/Development-Active%20Fork%3A%20EmoAtlas-red.svg" alt="Active Development">
+  </a>
 </p>
-
 
 <img src="ea.png" data-canonical-src="ea.png" width="200" height="200" />
 
