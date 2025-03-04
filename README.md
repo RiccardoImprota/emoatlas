@@ -1,3 +1,15 @@
+<h1 align="center">🚨 Active Development Notice 🚨</h1>
+
+<p align="center">
+  This repository is no longer actively maintained. Please check out our fork for the latest updates:
+  <a href="https://github.com/MassimoStel/emoatlas"><strong>EmoAtlas</strong></a>.
+</p>
+
+<p align="center">
+  [![Active Development](https://img.shields.io/badge/Development-Active%20Fork%3A%20EmoAtlas-red.svg)](https://github.com/MassimoStel/emoatlas)
+</p>
+
+
 <img src="ea.png" data-canonical-src="ea.png" width="200" height="200" />
 
 A Python library for the detection and visualization of emotions in texts, coming soon with the first release ✨
