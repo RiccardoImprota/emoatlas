@@ -1,3 +1,16 @@
+<div style="border: 2px solid red; padding: 10px; background-color: #ffe6e6; text-align: center;">
+  <a href="https://github.com/YourUsername/YourForkRepository" style="color: red; font-weight: bold; text-decoration: none;">
+    This repository is currently continuing development in the fork blablabla
+  </a>
+</div>
+[![Active Development](https://img.shields.io/badge/Notice-Active%20Development%20in%20Fork-red)](https://github.com/YourUsername/YourForkRepository)
+<div style="border: 2px solid red; padding: 10px; background-color: #ffe6e6; text-align: center;">
+  <a href="https://github.com/YourUsername/YourForkRepository" style="color: red; font-weight: bold; text-decoration: none;">
+    Notice: For the latest updates and features, please visit our fork repository where active development continues.
+  </a>
+</div>
+
+
 <img src="ea.png" data-canonical-src="ea.png" width="200" height="200" />
 
 A Python library for the detection and visualization of emotions in texts, coming soon with the first release ✨
